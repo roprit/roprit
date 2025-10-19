@@ -1,0 +1,28 @@
+{
+  "users": {
+    "7759987050": {
+      "username": "admin_bot",
+      "referrer_id": null,
+      "balance": 0.0,
+      "total_earnings": 0.0,
+      "referral_earnings": 0.0,
+      "registered_date": "2025-10-19T21:51:49.796799",
+      "has_access": true
+    },
+    "7298046364": {
+      "username": "Z_Z0V_Z",
+      "referrer_id": null,
+      "balance": 0.0,
+      "total_earnings": 0.0,
+      "referral_earnings": 0.0,
+      "registered_date": "2025-10-19T22:05:56.058651",
+      "has_access": true
+    }
+  },
+  "rentals": {},
+  "pending_messages": {},
+  "settings": {
+    "last_rental_id": 0,
+    "last_message_id": 0
+  }
+}
